@@ -1,0 +1,57 @@
+# Blender 3.5.1 MTL File: 'D01_ChariotWar_Render_v1.0.3.blend'
+# www.blender.org
+
+newmtl MT01_Hor_Harness
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T01_Harness/DM04_1_HorHarnessCTR_Low_v1_MT01_Hor_Harness_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T01_Harness/DM04_1_HorHarnessCTR_Low_v1_MT01_Hor_Harness_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T01_Harness/DM04_1_HorHarnessCTR_Low_v1_MT01_Hor_Harness_Metallic.png
+
+newmtl MT02_Hor_Harness_Mouth
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T02_HarnessMouth/DM04_1_HorHarnessCTR_Low_v1_MT02_Hor_Harness_Mouth_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T02_HarnessMouth/DM04_1_HorHarnessCTR_Low_v1_MT02_Hor_Harness_Mouth_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T02_HarnessMouth/DM04_1_HorHarnessCTR_Low_v1_MT02_Hor_Harness_Mouth_Metallic.png
+
+newmtl MT03_Straps
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T03_Straps/DM04_1_HorHarnessCTR_Low_v1_MT03_Straps_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T03_Straps/DM04_1_HorHarnessCTR_Low_v1_MT03_Straps_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T03_Straps/DM04_1_HorHarnessCTR_Low_v1_MT03_Straps_Metallic.png
+
+newmtl MT04_Chains
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T04_Chains/DM04_1_HorHarnessCTR_Low_v1_MT04_Chains_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T04_Chains/DM04_1_HorHarnessCTR_Low_v1_MT04_Chains_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T04_Chains/DM04_1_HorHarnessCTR_Low_v1_MT04_Chains_Metallic.png
+
+newmtl MT05_WiresRopes
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T05_RopesWires/DM04_1_HorHarnessCTR_Low_v1_MT05_WiresRopes_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T05_RopesWires/DM04_1_HorHarnessCTR_Low_v1_MT05_WiresRopes_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG03_Hor_Harness/T05_RopesWires/DM04_1_HorHarnessCTR_Low_v1_MT05_WiresRopes_Metallic.png

@@ -1,0 +1,86 @@
+# Blender 3.5.1 MTL File: 'D01_ChariotWar_Render_v1.0.3.blend'
+# www.blender.org
+
+newmtl MT_D01_Chariot_Box_Low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T01_Chariot_Box/DM03_1_ChariotWar_Low_v1_MT_D01_Chariot_Box_Low_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T01_Chariot_Box/DM03_1_ChariotWar_Low_v1_MT_D01_Chariot_Box_Low_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T01_Chariot_Box/DM03_1_ChariotWar_Low_v1_MT_D01_Chariot_Box_Low_Metallic.png
+map_Bump -bm 1.000000 E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T01_Chariot_Box/DM03_1_ChariotWar_Low_v1_MT_D01_Chariot_Box_Low_Normal.png
+
+newmtl MT_D02_Braces_Low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T02_Braces/DM03_1_ChariotWar_Low_v1_MT_D02_Braces_Low_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T02_Braces/DM03_1_ChariotWar_Low_v1_MT_D02_Braces_Low_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T02_Braces/DM03_1_ChariotWar_Low_v1_MT_D02_Braces_Low_Metallic.png
+map_Bump -bm 1.000000 E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T02_Braces/DM03_1_ChariotWar_Low_v1_MT_D02_Braces_Low_Normal.png
+
+newmtl MT_D03_Axis_Chariot_Low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T03_Axes_BaseCar/DM03_1_ChariotWar_Low_v1_MT_D03_Axis_Chariot_Low_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T03_Axes_BaseCar/DM03_1_ChariotWar_Low_v1_MT_D03_Axis_Chariot_Low_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T03_Axes_BaseCar/DM03_1_ChariotWar_Low_v1_MT_D03_Axis_Chariot_Low_Metallic.png
+map_Bump -bm 1.000000 E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T03_Axes_BaseCar/DM03_1_ChariotWar_Low_v1_MT_D03_Axis_Chariot_Low_Normal.png
+
+newmtl MT_D04_Chariot_Wheels_Low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T04_Wheels/DM03_1_ChariotWar_Low_v1_MT_D04_Chariot_Wheels_Low_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T04_Wheels/DM03_1_ChariotWar_Low_v1_MT_D04_Chariot_Wheels_Low_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T04_Wheels/DM03_1_ChariotWar_Low_v1_MT_D04_Chariot_Wheels_Low_Metallic.png
+map_Bump -bm 1.000000 E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T04_Wheels/DM03_1_ChariotWar_Low_v1_MT_D04_Chariot_Wheels_Low_Normal.png
+
+newmtl MT_D05_Wheels_inner_Low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T05_Wheels_Inner/DM03_1_ChariotWar_Low_v1_MT_D05_Wheels_inner_Low_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T05_Wheels_Inner/DM03_1_ChariotWar_Low_v1_MT_D05_Wheels_inner_Low_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T05_Wheels_Inner/DM03_1_ChariotWar_Low_v1_MT_D05_Wheels_inner_Low_Metallic.png
+map_Bump -bm 1.000000 E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T05_Wheels_Inner/DM03_1_ChariotWar_Low_v1_MT_D05_Wheels_inner_Low_Normal.png
+
+newmtl MT_D06_Vertical_Axis_1_Low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T06_Hoz_Axe_1/DM03_1_ChariotWar_Low_v1_MT_D06_Vertical_Axis_1_Low_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T06_Hoz_Axe_1/DM03_1_ChariotWar_Low_v1_MT_D06_Vertical_Axis_1_Low_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T06_Hoz_Axe_1/DM03_1_ChariotWar_Low_v1_MT_D06_Vertical_Axis_1_Low_Metallic.png
+map_Bump -bm 1.000000 E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T06_Hoz_Axe_1/DM03_1_ChariotWar_Low_v1_MT_D06_Vertical_Axis_1_Low_Normal.png
+
+newmtl MT_D07_Vertical_Axis_2_Low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T07_Hoz_Axe_2/DM03_1_ChariotWar_Low_v1_MT_D07_Vertical_Axis_2_Low_BaseColor.png
+map_Ns E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T07_Hoz_Axe_2/DM03_1_ChariotWar_Low_v1_MT_D07_Vertical_Axis_2_Low_Roughness.png
+map_refl E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T07_Hoz_Axe_2/DM03_1_ChariotWar_Low_v1_MT_D07_Vertical_Axis_2_Low_Metallic.png
+map_Bump -bm 1.000000 E:/BU02_ScriptsProjects_Support/PR12_BlenderPro/B02_Mods_3D_SELL/BD01_MOD_SEL_DEV/MD14_Chariot_War_T1/status/S07_Textures/TG01_Chariot/T07_Hoz_Axe_2/DM03_1_ChariotWar_Low_v1_MT_D07_Vertical_Axis_2_Low_Normal.png
